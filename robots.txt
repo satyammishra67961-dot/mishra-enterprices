@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://satyammishra67961-dot.github.io/mishra-enterprices/sitemap.xml
